@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Happy Clients",
+    "count": 100,
+    "suffix": "k",
+    "icon": "https://i.ibb.co/hD6SX4B/icons8-customers-64.png",
+    "detail": "we serve more 10 thousands customers all over the world"
+  },
+  {
+    "name": "Esimate yearly revenue",
+    "count": 15,
+    "suffix": "M~",
+    "icon": "https://i.ibb.co/Ptc0v8C/icons8-bar-chart-64.png"
+  },
+  {
+    "name": "Daily Online Visitors",
+    "count": 2,
+    "suffix": "k",
+    "icon": "https://i.ibb.co/tMNCjs0/icons8-find-64.png"
+  },
+  {
+    "name": "Eco friendly production",
+    "count": 100,
+    "suffix": "+",
+    "icon": "https://i.ibb.co/V99Jv87/icons8-eco-home-64.png"
+  }
+]
